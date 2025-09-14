@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 This is Master line Code
-=======
 this is merge Conflict
-
->>>>>>> b1
